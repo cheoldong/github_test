@@ -43,10 +43,10 @@ content column 1 | content column 2
 
 ##체크박스 ##
 
--[x] this is a compleate item.
--[ ] this is a incompleate item.
--[x] @mantion, #refs, [links], **formatting**, and <del>tags</del> supported
--[x] list syntax required (any undered or ordered list supported)
+-[x] this is a compleate item.  
+-[ ] this is a incompleate item.  
+-[x] @mantion, #refs, [links], **formatting**, and <del>tags</del> supported  
+-[x] list syntax required (any undered or ordered list supported)  
 
 ##인라인코드##
 
