@@ -12,7 +12,7 @@
 
 오늘은 2023년10월 6일이다.
 
-<img src="C:\Users\LG\Pictures\배효심.jpg" alt="배효심" style="zoom:80%;" />
+<img src="images/배효심.jpg" alt="배효심" style="zoom:80%;" />
 
 이 그림은 배효심 처녀시절 사진이다 덕수궁에서 촬영한 것.
 
