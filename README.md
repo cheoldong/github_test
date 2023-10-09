@@ -6,7 +6,7 @@
 
 ![GitHub photo](images/shinseak.jpg)
 
-![GitHub photo](images/images/css-grid-box.jpg)
+![GitHub photo](images/css-grid-box.jpg)
 
 
 ![css-grid-box](https://github.com/cheoldong/github_test/assets/8595533/b0428d9a-2dac-403e-a6a5-ff6b0a074685)
