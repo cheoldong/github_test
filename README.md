@@ -6,4 +6,5 @@
 
 ![GitHub photo](images/shinseak.jpg)
 
-https://github.com/cheoldong/github_test/blob/main/images/css-grid-box.jpg?raw=true
+![GitHub photo](images/images/css-grid-box.jpg)
+
