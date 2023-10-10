@@ -8,7 +8,7 @@
 
 ##### 제목 5
 
-이것은 본문이다.
+이것은 본문이다.gi
 
 오늘은 2023년10월 6일이다.
 
@@ -28,13 +28,11 @@ AS Grace Hopper said:
 >
 > in the future in the past
 
-*this text will be italic*
+_this text will be italic_
 
 **this text will be bold**
 
-*you **can** combine them.*
-
-
+_you **can** combine them._
 
 ##테이블 ##
 
@@ -46,8 +44,6 @@ content cell 1 | content cell 2
 
 content column 1 | content column 2
 
-
-
 ##체크박스 ##
 
 -[x] this is a compleate item.
@@ -58,33 +54,25 @@ content column 1 | content column 2
 
 -[x] list syntax required (any undered or ordered list supported)
 
-
-
 ##인라인코드##
 
-문단 중간에 `code`를 넣을 수 있다. 
+문단 중간에 `code`를 넣을 수 있다.
 
-예를들어 printf("hello world!"); 이런식으로 들어 갑니다. 
-
-
+예를들어 printf("hello world!"); 이런식으로 들어 갑니다.
 
 ##수평선##
 
 ---
 
-***
+---
 
 ---
 
-
-
 ##탈출문자##
 
-\*literal asterisks\* 
+\*literal asterisks\*
 
 -literal asterisks-
-
-
 
 ##이모지 아이콘##
 
@@ -94,15 +82,4 @@ GitHub supports emoji!
 
 :rocket: :metal: :octocat:
 
-
-
 ##배지 만들기##
-
-
-
-
-
-
-
-
-
